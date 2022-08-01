@@ -5,9 +5,9 @@
 A simple project for text translation... You can translate a text from any language to a language of your choice This uses boto3 api for the translation thus a requirement.
 
 ## REQUIREMENTS
-* python - Required to start the application
-* boto3 - To run the boto3 api client
-* click - To provide a more interactive prompt to the user
+* **python** - Required to start the application
+* **boto3** - To run the boto3 api client
+* **click** - To provide a more interactive prompt to the user
 
 ## USAGE
 Making sure a files are present.
